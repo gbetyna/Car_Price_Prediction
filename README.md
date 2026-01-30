@@ -10,17 +10,13 @@ The project demonstrates the full ML workflow, including exploratory data analys
 
 ## Overview
 
-This project focuses on building a clean, reproducible Machine Learning pipeline for a regression problem.
-Rather than optimizing for maximum accuracy, the goal is to demonstrate best practices in applied ML,
-such as consistent preprocessing, fair model comparison, and clear separation between training and inference.
+This project focuses on building a clean, reproducible Machine Learning pipeline for a regression problem. Rather than optimizing for maximum accuracy, the goal is to demonstrate best practices in applied ML, such as consistent preprocessing, fair model comparison, and clear separation between training and inference.
 
 ---
 
 ## Problem Context
 
-Car price prediction is a common real-world regression problem in applied machine learning.
-Prices depend on multiple interacting factors, and real datasets often contain noise
-and limited feature information.
+Car price prediction is a common real-world regression problem in applied machine learning. Prices depend on multiple interacting factors, and real datasets often contain noise and limited feature information.
 
 This project emphasizes:
 - Proper handling of mixed numerical and categorical features
