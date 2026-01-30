@@ -1,15 +1,10 @@
 # Car Price Prediction
 
-This project uses a publicly available dataset containing car attributes and prices.  
-The data was used for educational and portfolio purposes.
+This project uses a publicly available dataset containing car attributes and prices. The data was used for educational and portfolio purposes.
 
-An end-to-end Machine Learning project that predicts car prices  
-based on structured vehicle attributes.
+An end-to-end Machine Learning project that predicts car prices based on structured vehicle attributes.
 
-The project demonstrates the full ML workflow, including exploratory data analysis,  
-preprocessing, model training and evaluation, model persistence,  
-and deployment via a Streamlit web application.
-
+The project demonstrates the full ML workflow, including exploratory data analysis, preprocessing, model training and evaluation, model persistence, and deployment via a Streamlit web application.
 
 ---
 
