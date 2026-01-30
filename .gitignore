@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Models
+# (Option A: keep the trained model in the repository for easy demo)
+# models/*.pkl
+
+# Data
+# (Uncomment if you do NOT want to publish the dataset)
+# data/
