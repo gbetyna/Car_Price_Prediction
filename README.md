@@ -33,7 +33,7 @@ This project emphasizes:
 
 ## Project structure
 
-
+```text
 Car_Price_Prediction/
 ├── data/
 │   └── car_price_prediction_.csv
@@ -46,6 +46,7 @@ Car_Price_Prediction/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Features
 
